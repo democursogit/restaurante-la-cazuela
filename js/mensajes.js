@@ -1,2 +1,2 @@
 /* lanzar mensajes al usuario */
-alert('Hola');
+alert('Hola como estás, buen día');
