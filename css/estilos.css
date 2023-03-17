@@ -4,5 +4,27 @@
 
 body{
     margin: 50px 200px;
-    background: rgb(224, 224, 224);
+    background: #e6fcca;
+}
+
+body > header{
+    background: orangered;
+    color:#FFF;
+    padding: 25px;
+    text-align: center;
+}
+
+h1{
+    font-size: 3.5em;
+    color:orangered;
+}
+
+h2{
+    font-size: 2.5em;
+    color:olivedrab;
+}
+
+p{
+    font-family: sans-serif;
+    line-height: 1.4em;
 }
